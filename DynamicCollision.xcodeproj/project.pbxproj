@@ -21,6 +21,7 @@
 		40C9BC5518EC306400FBD6C1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40C9BC3718EC306400FBD6C1 /* UIKit.framework */; };
 		40C9BC5D18EC306400FBD6C1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 40C9BC5B18EC306400FBD6C1 /* InfoPlist.strings */; };
 		40C9BC5F18EC306400FBD6C1 /* DynamicCollisionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40C9BC5E18EC306400FBD6C1 /* DynamicCollisionTests.m */; };
+		40C9BC6918EC314300FBD6C1 /* rabbit.png in Resources */ = {isa = PBXBuildFile; fileRef = 40C9BC6818EC314300FBD6C1 /* rabbit.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		40C9BC5A18EC306400FBD6C1 /* DynamicCollisionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DynamicCollisionTests-Info.plist"; sourceTree = "<group>"; };
 		40C9BC5C18EC306400FBD6C1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		40C9BC5E18EC306400FBD6C1 /* DynamicCollisionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DynamicCollisionTests.m; sourceTree = "<group>"; };
+		40C9BC6818EC314300FBD6C1 /* rabbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rabbit.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		40C9BC3918EC306400FBD6C1 /* DynamicCollision */ = {
 			isa = PBXGroup;
 			children = (
+				40C9BC6818EC314300FBD6C1 /* rabbit.png */,
 				40C9BC4218EC306400FBD6C1 /* AppDelegate.h */,
 				40C9BC4318EC306400FBD6C1 /* AppDelegate.m */,
 				40C9BC4518EC306400FBD6C1 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40C9BC4C18EC306400FBD6C1 /* Images.xcassets in Resources */,
+				40C9BC6918EC314300FBD6C1 /* rabbit.png in Resources */,
 				40C9BC3E18EC306400FBD6C1 /* InfoPlist.strings in Resources */,
 				40C9BC4718EC306400FBD6C1 /* Main.storyboard in Resources */,
 			);
